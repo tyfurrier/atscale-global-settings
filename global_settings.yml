@@ -1,0 +1,3 @@
+object_type: global_settings
+overrides:
+  "feature.support-bundle.new-ui.enabled": true
